@@ -1,0 +1,23 @@
+{
+  "name": "sockjs-client",
+  "version": "0.3.5-snapshot",
+  "homepage": "https://github.com/wishbear/sockjs-client",
+  "authors": [
+    "SockJS"
+  ],
+  "main": "sockjs.js",
+  "keywords": [
+    "sockjs",
+    "websocket",
+    "socket",
+    "polling"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
